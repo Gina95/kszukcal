@@ -1,0 +1,20 @@
+#nevjegy {
+    background-color: purple;
+    position: fixed;
+    width: 400px;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    top: 40px;
+    transform: rotate(45deg);
+    right: -100px;
+    font-size: 14px;
+    border:solid 3px black;
+
+
+}
+
+#kaloriszuk_doboz {
+    display: none;
+    
+}
